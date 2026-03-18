@@ -2,6 +2,9 @@
 
 Docker container status widget for [StatusBar](https://github.com/hytfjwr/StatusBar).
 
+<img width="604" height="352" alt="image" src="https://github.com/user-attachments/assets/3152f9a3-fdb0-4d06-a999-ae0058896647" />
+
+
 ## Features
 
 - Running container count display
