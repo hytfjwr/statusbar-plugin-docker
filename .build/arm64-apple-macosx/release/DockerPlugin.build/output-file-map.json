@@ -1,0 +1,25 @@
+{
+  "": {
+    "dependencies": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin.d",
+    "object": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin.o",
+    "swift-dependencies": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/master.swiftdeps"
+  },
+  "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/Sources/DockerPlugin/DockerPlugin.swift": {
+    "object": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin.swift.o",
+    "swiftmodule": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin.swiftdeps",
+    "diagnostics": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerPlugin.dia"
+  },
+  "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/Sources/DockerPlugin/DockerService.swift": {
+    "object": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerService.swift.o",
+    "swiftmodule": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerService~partial.swiftmodule",
+    "swift-dependencies": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerService.swiftdeps",
+    "diagnostics": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerService.dia"
+  },
+  "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/Sources/DockerPlugin/DockerWidget.swift": {
+    "object": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerWidget.swift.o",
+    "swiftmodule": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerWidget~partial.swiftmodule",
+    "swift-dependencies": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerWidget.swiftdeps",
+    "diagnostics": "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/DockerWidget.dia"
+  }
+}
