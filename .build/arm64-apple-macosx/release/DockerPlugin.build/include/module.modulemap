@@ -1,3 +1,0 @@
-module DockerPlugin {
-    header "/Users/hayato.fujiwara/Dev/poc/statusbar-plugin-docker/.build/arm64-apple-macosx/release/DockerPlugin.build/include/DockerPlugin-Swift.h"
-}
