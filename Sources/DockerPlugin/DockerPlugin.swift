@@ -13,3 +13,11 @@ public struct DockerPlugin: StatusBarPlugin {
         widgets = [DockerWidget()]
     }
 }
+
+// MARK: - Plugin Factory
+
+@_cdecl("createStatusBarPlugin")
+public func createStatusBarPlugin() -> UnsafeMutableRawPointer {
+    let box = PluginBox { DockerPlugin() }
+    return Unmanaged.passRetained(box).toOpaque()
+}
